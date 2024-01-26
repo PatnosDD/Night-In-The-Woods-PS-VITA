@@ -6,6 +6,11 @@ This repo contains patches that you can use in order to get fully working files 
 
 NOTICE: OVERCLOCK IS NECESSARY, ONLY WINDOWS VERSION IS SUPPORTED
 
+Known Issues:
+- Low Quality/Non Working audio in some scenarios.
+- Textures not being displayed properly(misaligned, cut out).
+- Improper controller button icons in some places.
+
 # Instructions
 First, you might want to install the .VPK using VitaShell. Don't try to launch the game, because it will crash without the neccesary files.
 
